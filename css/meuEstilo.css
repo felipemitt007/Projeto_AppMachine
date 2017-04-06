@@ -1,0 +1,29 @@
+/*CSS Personalizado.*/
+
+body {
+  background-color: GhostWhite;
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  
+}
+
+.container {
+    padding: 10px;
+    position: relative;
+}
+
+h4 { 
+ border:0 solid blue; 
+ border-bottom-width:1px;
+ padding-bottom:15px;
+ text-align: center;
+}
+
+h3 { 
+ text-align: center;
+}
+
+.borderTop{
+    border-top-width:1px;
+    padding-top:15px;
+}
