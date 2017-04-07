@@ -1,10 +1,10 @@
 # Projeto_AppMachine
 
-Este é um projeto que faz parte da terceira etapa do processo de seleção da empresa App Machine. É um sistema pequeno, que utiliza o banco de dados NoSQL Firebase, para gravar informações de filmes preferidos dos usuários. O sistema também permite editar informações dos filmes ou excluir filmes.
+Este é um projeto que faz parte da segunda etapa do processo de seleção da empresa App Machine. É um sistema pequeno, que utiliza o banco de dados NoSQL Firebase, para gravar informações de filmes preferidos dos usuários. O sistema também permite editar informações dos filmes ou excluir filmes.
 
 ## Pré requisitos:
 
-Ter instalado na máquina os browsers Firefox ou Chrome, e dar dois cliques no arquivo html chamado index.html .
+Ter instalado na máquina os browsers Firefox ou Chrome, e dar dois cliques no arquivo html chamado index.html.
 
 ## Contribuições:
 
