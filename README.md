@@ -1,27 +1,27 @@
-# Projeto_AppMachine
+# AppMachine Training: Check Project - Create project using Firebase realtime database
 
-Este é um projeto que faz parte da segunda etapa do processo de seleção da empresa App Machine. É um sistema pequeno, que utiliza o banco de dados NoSQL Firebase, para gravar informações de filmes preferidos dos usuários. O sistema também permite editar informações dos filmes ou excluir filmes.
+This is a project that is part of the second stage of the selection process of the enterprise App Machine. It's a small system, which uses the NoSQL database Firebase, to write information from users' favorite films. The system also allows you to edit information of the films or delete movies.
 
-## Pré requisitos:
+## Requirements:
 
-Ter instalado na máquina os browsers Firefox ou Chrome, e dar dois cliques no arquivo html chamado index.html.
+Have installed on the machine the browsers Firefox or Chrome, and give two clicks on the html file called index.html.
 
-## Contribuições:
+## Contributions:
 
-Apenas um desenvolvedor participou desse projeto. O programador Felipe Mitterofhe.
+Only a developer participated in this project. The programmer Felipe Mitterofhe.
 
-## Controle de versão:
+## Version control:
 
-O sistema está atualmente na versão 1.0. Esta versão inclui o CRUD básico para a utilização da ferramenta Firebase.
+The system is currently in version 1.0. This version includes the basic CRUD tool Firebase.
 
-## Autores:
+## Authors:
 
-* **Felipe Mitterofhe** - *Trabalho inicial e todo o desenvolvimento da versão 1.0*.
+* **Felipe Mitterofhe** - *Initial work and any development of version 1.0*.
 
-## Licença:
+## License:
 
-Esse projeto é licenciado sob a MIT License.
+This project is licensed under the MIT License.
 
-## Agradecimentos:
+## Acknowledgments:
 
-* Ao pessoal da App Machine por estar me dando a oportunidade de concorrer a uma vaga como desenvolvedor, em uma empresa com uma proposta inovadora e projetos interessantes.
+* The staff of App Machine to be giving me the opportunity to compete for a spot as a developer in a company with innovative and interesting projects.
